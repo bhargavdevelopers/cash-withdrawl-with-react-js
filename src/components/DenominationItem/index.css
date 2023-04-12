@@ -1,0 +1,15 @@
+.denomination-item {
+  list-style-type: none;
+  width: 50%;
+  margin-bottom: 18px;
+}
+.denomination-button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  padding: 10px;
+  border: 1px solid #d4d2db;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 80%;
+}
